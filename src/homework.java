@@ -8,6 +8,7 @@ public class homework {
         System.out.println(KursValutUsd(235)); //Задача 12
         System.out.println(KursValutUah(535));
         System.out.println(earth2(1,4,1)); //Задача 13
+        System.out.println(f14(123));
     }
 
 
@@ -41,6 +42,10 @@ public class homework {
     }
     public static double earth2(double day,double month,double year){
         double y=day+42*(month-1)+420*(year-1);
+        return y;
+    }
+    public static int f14(double a){
+        int y=(int)((a%10)+((a/10)%10)+(a/100));
         return y;
     }
 }
