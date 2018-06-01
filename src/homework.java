@@ -9,6 +9,8 @@ public class homework {
         System.out.println(KursValutUah(535));
         System.out.println(earth2(1,4,1)); //Задача 13
         System.out.println(f14(123));
+        f16(5,2);
+        f17(2,3,4,5,6,7);
     }
 
 
@@ -48,4 +50,20 @@ public class homework {
         int y=(int)((a%10)+((a/10)%10)+(a/100));
         return y;
     }
+    public static void f16(double v1,double v2){
+        if (v1<=4 && v2<6){
+            System.out.println("не столкнутся");
+        } else{
+            System.out.println("столкнутся");
+        }
+    }
+    public static void f17(double x1,double y1,double x2,double y2,double r1,double r2){
+        if (Math.sqrt(Math.pow(x2-x1,2)-Math.pow(y2-y1,2))<=r1+r2){
+            System.out.println("пересекаются");
+        } else{
+            System.out.println("не пересекаются");
+        }
+    }
+    
+
 }
