@@ -15,21 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test.java">
+      <file leaf-file-name="homework3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/homework3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#737#738#0" expanded="true" />
-                <element signature="e#783#784#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-                <element signature="e#904#905#0" expanded="true" />
-                <element signature="e#978#979#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -51,11 +41,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/homework.java" />
         <option value="$PROJECT_DIR$/src/homework2.java" />
-        <option value="$PROJECT_DIR$/src/homework3.java" />
         <option value="$PROJECT_DIR$/src/lesson9.java" />
         <option value="$PROJECT_DIR$/src/homework4.java" />
         <option value="$PROJECT_DIR$/src/adad.java" />
         <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/homework3.java" />
       </list>
     </option>
   </component>
@@ -115,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.homework3">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -191,11 +181,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework3" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.adad" />
         <item itemvalue="Application.homework4" />
         <item itemvalue="Application.lesson9" />
-        <item itemvalue="Application.homework3" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +217,7 @@
       <workItem from="1531419771908" duration="21828000" />
       <workItem from="1532031382978" duration="168000" />
       <workItem from="1532031610200" duration="7279000" />
-      <workItem from="1532209677304" duration="2237000" />
+      <workItem from="1532209677304" duration="2749000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1527090653567</created>
@@ -278,11 +268,25 @@
       <option name="project" value="LOCAL" />
       <updated>1529056738534</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2">
+      <created>1532212138432</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1532212138432</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2">
+      <created>1532212201539</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1532212201540</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64149000" />
+    <option name="totallyTimeSpent" value="64661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -606,31 +610,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/homework2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/homework3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/adad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/homework4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -644,10 +627,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
           <folding>
             <element signature="e#568#569#0" expanded="true" />
             <element signature="e#628#629#0" expanded="true" />
@@ -658,6 +655,13 @@
             <element signature="e#904#905#0" expanded="true" />
             <element signature="e#978#979#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>

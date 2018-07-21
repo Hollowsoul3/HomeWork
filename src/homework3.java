@@ -10,11 +10,11 @@ public class homework3 {
         */
 
         double n = 1;     //Задача 23
-        int b = 1;
+        int b = 0;
         while (n <= 1000000) {
-            System.out.println("День " + b + ": " + n);
             n = 1 + n * 3;
             b++;
         }
+        System.out.println("Дней: " + b);
     }
 }
