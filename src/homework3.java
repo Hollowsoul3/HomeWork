@@ -9,11 +9,23 @@ public class homework3 {
         }
 
 
-        //Задача 23
+        /* Задача 23 1-й вариант решения
+        int sum = 0;
+        int i=0;
+
+        for(int n=1;n <= 1000000;n=3*n){
+            System.out.println(sum+=n);
+            i++;
+        }
+        System.out.println("Дней: "+i);
+        */
+
+        //Задача 23 2-й вариант решения
         int n = 1;
         int i = 0;
+        int sum=n;
 
-        for (int sum = 1; sum <= 1000000; sum += n) {
+        for (; sum <= 1000000; sum += n) {
             n = 3 * n;
             System.out.println(sum);
             i++;
