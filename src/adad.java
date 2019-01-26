@@ -33,7 +33,7 @@ public class adad {
         int[] B=new int[A.length];
         for(int i=0;i<A.length;i++) {
             if (A[i] == 0) {
-                B[i] = A[i];
+                B[j] = A[i];
                 System.out.println(B[i]);
             }
         }

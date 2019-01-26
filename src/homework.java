@@ -11,6 +11,7 @@ public class homework {
         System.out.println(f14(123));
         f16(5,2);
         f17(2,3,4,5,6,7);
+        task();
     }
 
 
@@ -63,6 +64,19 @@ public class homework {
         } else{
             System.out.println("не пересекаются");
         }
+    }
+    public static void task(){
+        int [] A=new int[3];
+        A[0]=-3;
+        A[1]=-1;
+        A[2]=-2;
+        int max=0;
+        for(int i=0;i<A.length;i++){
+           if(max==0 || max<A[i]){
+               max=A[i];
+           }
+        }
+        System.out.println(max);
     }
     
 
